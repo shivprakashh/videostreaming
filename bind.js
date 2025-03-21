@@ -27,7 +27,7 @@ function App() {
     console.log("version1");
     console.log("no in the version2222")
     console.log("ccc")
-    console.log("master2")
+    console.log("master1")
   }
   // Invalid (it needs to be wrapped in a single parent):
 

@@ -22,7 +22,9 @@ function App() {
       </>
     );
   }
-  
+  function ccc (){
+    
+  }
   // Invalid (it needs to be wrapped in a single parent):
 
   

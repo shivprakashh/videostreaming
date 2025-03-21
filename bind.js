@@ -23,10 +23,10 @@ function App() {
     );
   }
   function ccc (){
-    console.log("master");
+    console.log("master sf");
     console.log("version1");
     console.log("no in the version2222")
-    console.log("ccc")
+    console.log("cccsfs")
     console.log("master1")
   }
   // Invalid (it needs to be wrapped in a single parent):

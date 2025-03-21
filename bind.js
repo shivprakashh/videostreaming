@@ -23,7 +23,8 @@ function App() {
     );
   }
   function ccc (){
-    
+    console.log("master");
+    console.log("version1")
   }
   // Invalid (it needs to be wrapped in a single parent):
 

@@ -23,11 +23,9 @@ function App() {
     );
   }
   function ccc (){
-    console.log("master sf");
-    console.log("version1");
-    console.log("no in the version2222")
-    console.log("cccsfs")
-    console.log("master1")
+    console.log("master s= hellof");
+  
+   
   }
   // Invalid (it needs to be wrapped in a single parent):
 

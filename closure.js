@@ -4,7 +4,7 @@ function createBankAccount(initialBalance) {
     return {
         depot(amount) {
             balance += amount;
-            console.log(`Deposited $${amount}. New balance: $${balance}`);
+            console.log(`Deposited $${amount}. New balance: $${balancesdf}`);
         },
         withdraw(amount) {
             if (balance >= amount) {

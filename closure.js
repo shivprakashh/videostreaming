@@ -8,7 +8,7 @@ function createBankAccount(initialBalance) {
         },
         withdraw(amount) {
             if (balance >= amount) {
-                balance -= amount;
+                balance -= amount;sdf
                 console.log(`Withdrew $${amount}. New balance: $${balance}`);
             } else {
                 console.log('Insufficient funds');

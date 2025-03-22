@@ -10,5 +10,5 @@ const fe = new fet("",{name:"thet naing tun"});
 
 fe.get().then((d)=>{
     console.log(d)`console.log(s)`
-    const what = 434;
+    const what = 434;const l = "sfdsdf";
 })

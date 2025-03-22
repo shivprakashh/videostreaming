@@ -2,8 +2,8 @@ function createBankAccount(initialBalance) {
     let balance = initialBalance;
 
     return {
-        depo(amount) {
-            balance += amounts;
+        depot(amount) {
+            balance += amount;
             console.log(`Deposited $${amount}. New balance: $${balance}`);
         },
         withdraw(amount) {

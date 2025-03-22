@@ -12,6 +12,7 @@ fe.get().then((d)=>{
     console.log(d)`console.log(s)`
 
     const what = 434;const lssdf = "sfdsdf";
+    what = 43;
 
    
 
